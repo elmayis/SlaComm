@@ -1,0 +1,13 @@
+Debug/SlaComm.exe
+Debug/SlaComm.ilk
+Debug/SlaComm.pdb
+ipch/SLACOMM-9fed1fa0/SLACOMM-ff290d38.ipch
+*.obj
+*.pch
+*.tlog
+*.pdb
+*.aps
+*.idb
+*.log
+*.filters
+.vs/SlaComm/v14/.suo
